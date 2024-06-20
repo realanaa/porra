@@ -1,1 +1,13 @@
+SimpleMathOperations/
+src/
+main/
+java/
+com/
+example/
+math/
+MathOperations.java
+Main.java
+.gitignore
+README.md
+LICENSE
 
